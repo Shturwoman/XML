@@ -1,1 +1,6 @@
-
+<Environment> macOS Ventura 13.0 / Safari 16.1 </Environment>
+<Title> Error 404 is displayed in Console throughout the site  </Title>
+<Steps> 1. Navigate to dns.ru, 2. Open DevTools (Console) </Steps>
+<Expected Result> Error 404 isn't displayed in Console  </Expected Result>
+<Actual Result> Error 404 is displayed in Console </Actual Result>
+<Attachment> Link </Attachment>
